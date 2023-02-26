@@ -1,5 +1,4 @@
 const express = require('express')
-const multer = require('multer')
 const bodyParser = require('body-parser');
 const app = express()
 const mysql = require('mysql')
